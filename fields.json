@@ -1,0 +1,2106 @@
+{
+  "slug": "kaminskiy-design-remodeling",
+  "brand": "Kaminskiy Design & Remodeling",
+  "field_count": 246,
+  "field_count_breakdown": {
+    "absolute_cited": 229,
+    "theoretical": 9,
+    "matching": 8,
+    "total": 246
+  },
+  "franchiseFee": 74995,
+  "totalInvestmentMin": 166495,
+  "totalInvestmentMax": 195495,
+  "royaltyPercent": "7%",
+  "royaltyFee": "7% of Gross Revenue",
+  "totalUnits": 7,
+  "openOutlets": 7,
+  "locations": 6,
+  "corporateCity": "Frisco",
+  "corporateState": "TX",
+  "corporateZip": "75034",
+  "corporateAddress": "2591 Dallas Pkwy, Suite 300, Frisco, TX 75034",
+  "description": "Kaminskiy Design & Remodeling is the San Diego-based home-improvement brand founded by Sergei Kaminskiy in 2005; its franchise arm, Kaminskiy Care and Repair, was formed as Kaminskiy Franchise Group, LLC (Frisco, Texas) in October 2024 and began offering franchises in its 2024 Franchise Disclosure Document (issued November 4, 2024). Franchisees operate a residential and business repair, maintenance and improvement business under the Kaminskiy Care and Repair name - the brand's 'small jobs, big difference' model covers doors, drywall, paint, fences, dry rot and termite repair, and full to-do-list handyman work, with a workmanship warranty and licensed, bonded and insured crews. The FDD discloses zero litigation and zero bankruptcies (Items 3-4), a $74,995 franchise fee, $166,495 to $195,495 estimated initial investment, 7% royalty, and a Designated Territory of roughly 40,000-60,000 target households. At issuance the system had 5 company-owned outlets and zero third-party franchisees; Item 19 reports 2023 average gross revenue of $850,185 across two company-owned outlets (San Diego $1,217,466, East Bay $482,904).",
+  "category": "Home Services — Handyman & Home Repair",
+  "websiteUrl": "https://careandrepair.com",
+  "yearFounded": 2005,
+  "yearFranchising": 2024,
+  "fddYear": 2024,
+  "territoryDescription": "Upon securing the Approved Location, the franchisor grants a Designated Territory (described by zip codes or geographical boundaries) in which the franchisee has protected rights: while in compliance, the franchisor will not own, operate, franchise or license any other Franchised Businesses inside the territory. The protection is not absolute — the territory may overlap with other franchisees' or affiliate-owned locations, and the franchisor reserves broad rights including merger/acquisition activity under other marks, being acquired by a competing business, and selling through alternative channels (mail order, catalog, telemarketing, internet, e-commerce, retail) inside or outside the territory, with no compensation owed to the franchisee. A typical territory holds 40,000-60,000 target households. Territory rights are not tied to sales volume, and the franchisee has no right to additional territories or alternate distribution channels. Classified as non-exclusive. (FDD Item 12, pp.28-30)",
+  "item12": "non-exclusive",
+  "item20PinCount": 6,
+  "hq_source": "FDD Item 1, p.8 (franchisor principal business address); note the brand's consumer site (careandrepair.com, 2026-09-12) says 'Headquartered in San Diego, CA' — that is the design-and-remodeling parent company; the FRANCHISOR HQ per the FDD is Frisco, TX",
+  "risk_score": 46,
+  "item19_figure": "Average gross revenue $850,185 (n=2 company-owned outlets, FY2023); San Diego $1,217,466, East Bay $482,904; as-if-franchised EBITDA margins 22% and 4%",
+  "item19_confidence": "WEAK (n=2, company-owned not franchised, wide performance dispersion 22% vs 4% margins)",
+  "miner": "kaminskiy-build",
+  "pins": [
+    {
+      "city": "Frisco",
+      "state": "TX",
+      "latitude": 33.16393,
+      "longitude": -96.8335,
+      "note": "2 company-owned outlets (parent Kaminskiy Group Inc since 2022; Kaminskiy Care and Repair LLC since 2023) — FDD Item 1, p.8"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "latitude": 32.71568,
+      "longitude": -117.16171,
+      "note": "company-owned since 2022 — FDD Item 1, p.8"
+    },
+    {
+      "city": "Walnut Creek",
+      "state": "CA",
+      "latitude": 37.91369,
+      "longitude": -122.0182,
+      "note": "East Bay company-owned since 2022 — FDD Item 1, p.8"
+    },
+    {
+      "city": "Naples",
+      "state": "FL",
+      "latitude": 26.22806,
+      "longitude": -81.67556,
+      "note": "company-owned since 2023 — FDD Item 1, p.8"
+    },
+    {
+      "city": "Hillsboro",
+      "state": "OR",
+      "latitude": 45.43141,
+      "longitude": -122.9641,
+      "note": "Portland-area company-owned since 2024 — FDD Item 1, p.9"
+    },
+    {
+      "city": "Vancouver",
+      "state": "WA",
+      "latitude": 45.66663,
+      "longitude": -122.68436,
+      "note": "company-owned since 2024 — FDD Item 1, p.9"
+    }
+  ],
+  "fields": {
+    "legal_entity_name": {
+      "field": "legal_entity_name",
+      "value": "Kaminskiy Franchise Group, LLC",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "entity_type": {
+      "field": "entity_type",
+      "value": "Texas limited liability company",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "entity_formation_date": {
+      "field": "entity_formation_date",
+      "value": "October 15, 2024",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "principal_business_address": {
+      "field": "principal_business_address",
+      "value": "2591 Dallas Pkwy, Suite 300, Frisco, TX 75034",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "trade_name": {
+      "field": "trade_name",
+      "value": "Kaminskiy Care and Repair",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "franchisor_email": {
+      "field": "franchisor_email",
+      "value": "franchise@careandrepair.com",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "franchisor_website": {
+      "field": "franchisor_website",
+      "value": "www.careandrepair.com",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "franchisor_phone": {
+      "field": "franchisor_phone",
+      "value": "855-85-REPAIR",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "1"
+    },
+    "franchisor_other_lines": {
+      "field": "franchisor_other_lines",
+      "value": "insufficient-data: franchisor states it has never offered franchises in any other line of business",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "parent_company": {
+      "field": "parent_company",
+      "value": "Kaminskiy Group Inc",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "parent_company_type": {
+      "field": "parent_company_type",
+      "value": "Texas corporation",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "parent_company_address": {
+      "field": "parent_company_address",
+      "value": "2591 Dallas Pkwy, Frisco, TX 75034",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "parent_company_business_since": {
+      "field": "parent_company_business_since",
+      "value": "2022 (residential and business repair, maintenance and improvement services in and around Frisco, Texas)",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "parent_franchise_history": {
+      "field": "parent_franchise_history",
+      "value": "insufficient-data: parent has never offered franchises in this or any other line of business",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "affiliate_san_diego": {
+      "field": "affiliate_san_diego",
+      "value": "Kaminskiy Care and Repair Inc (California corporation), 12396 Worldtrade Dr, San Diego, CA 92128; operating similar business in/around San Diego since 2022",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "affiliate_east_bay": {
+      "field": "affiliate_east_bay",
+      "value": "Kaminskiy Care and Repair East Bay Inc (California corporation), 43 Quail Ct Suite 111, Walnut Creek, CA 94596; operating in/around Walnut Creek since 2022",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "affiliate_frisco_tx": {
+      "field": "affiliate_frisco_tx",
+      "value": "Kaminskiy Care and Repair, LLC (Texas LLC), 2591 Dallas Pkwy, Frisco, TX 75034; operating in/around Frisco since 2023",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "affiliate_naples_fl": {
+      "field": "affiliate_naples_fl",
+      "value": "Kaminskiy Care and Repair, LLC (Florida LLC), 4851 Tamiami Trail North Suite 200, Naples, FL 34103; operating in/around Naples since 2023",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "affiliate_portland_or": {
+      "field": "affiliate_portland_or",
+      "value": "Kaminskiy Care and Repair Portland, Inc (Oregon corporation), 9620 NE Tanasbourne Drive Ste 300K, Hillsboro, OR 97123; operating in/around Hillsboro since 2024",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "affiliate_vancouver_wa": {
+      "field": "affiliate_vancouver_wa",
+      "value": "Kaminskiy Care and Repair, Vancouver, Inc (Oregon corporation), 201 NE Park Plaza Drive Suite 200B, Vancouver, WA 98684; operating in/around Vancouver since 2024",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "affiliate_marketing": {
+      "field": "affiliate_marketing",
+      "value": "Global Marketing Machine, LLC (Texas LLC, formed October 2024), 5900 Balcones Dr Ste 100, Austin, TX 78731; provides marketing services to franchisees",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "affiliate_staffing": {
+      "field": "affiliate_staffing",
+      "value": "Global Staffing Agency, LLC (Texas LLC, formed October 2024), 5900 Balcones Dr Ste 100, Austin, TX 78731; provides administrative and staffing services to franchisees",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "affiliate_franchise_history": {
+      "field": "affiliate_franchise_history",
+      "value": "insufficient-data: affiliates have never offered franchises in any line of business",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "predecessors": {
+      "field": "predecessors",
+      "value": "insufficient-data: franchisor has no predecessor",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "business_offered": {
+      "field": "business_offered",
+      "value": "right to operate a business providing residential and business repair, maintenance and improvement services under the Kaminskiy Care and Repair name and marks",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "single_unit_nature": {
+      "field": "single_unit_nature",
+      "value": "Franchise Agreement grants the right and obligation to develop and operate ONE Franchised Business at a mutually agreed site; no right or obligation to open additional locations",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "operating_principal_requirement": {
+      "field": "operating_principal_requirement",
+      "value": "must designate an Owner with at least a 20% ownership interest as the Operating Principal, with authority over all business decisions and power to bind the franchisee",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "key_manager_requirement": {
+      "field": "key_manager_requirement",
+      "value": "must appoint a trained Key Manager for day-to-day management; the Key Manager may also be the Operating Principal",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "9"
+    },
+    "industry_laws_note": {
+      "field": "industry_laws_note",
+      "value": "must comply with all federal/state/local laws for home maintenance, repair and improvement services; contractor licensing required where mandated by the service area",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "7"
+    },
+    "license_states": {
+      "field": "license_states",
+      "value": "states listed as requiring special licenses (and possibly tests) for plumbing/electrical or contractor work: AZ, CA, CO, CT, FL, ID, IL, MD, MI, MN, NE, NJ, NM, NV, NY, OR, PA, SC, TN, VA, WA, WV, WI",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "7"
+    },
+    "license_experience_states": {
+      "field": "license_experience_states",
+      "value": "AZ, CA, FL, NV, NM and SC require experience to secure a license; a licensing program is available in these states",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "7"
+    },
+    "agents_for_service": {
+      "field": "agents_for_service",
+      "value": "agents for service of process are identified in Exhibit B of the Disclosure Document",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8"
+    },
+    "brand_origin": {
+      "field": "brand_origin",
+      "value": "Sergei Kaminskiy has served as President/CEO of Kaminskiy Design & Remodeling in San Diego, California since 2005",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "brand_name_on_page": {
+      "field": "brand_name_on_page",
+      "value": "page brand = Kaminskiy Design & Remodeling (franchised trade name = Kaminskiy Care and Repair)",
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8",
+      "note": "assignment brand name preserved; FDD trade name recorded"
+    },
+    "competition_from_franchisor_note": {
+      "field": "competition_from_franchisor_note",
+      "value": "state cover pages warn: even if the franchise agreement grants a territory, the franchisor may have the right to compete with the franchisee in that territory",
+      "type": "absolute",
+      "item": "State covers",
+      "page": "4"
+    },
+    "sergei_kaminskiy_title": {
+      "field": "sergei_kaminskiy_title",
+      "value": "President and CEO since formation (October 2024)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "sergei_kaminskiy_background": {
+      "field": "sergei_kaminskiy_background",
+      "value": "President/CEO of the franchisor's affiliates since 2022; President/CEO of Kaminskiy Design & Remodeling, San Diego, California since 2005",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "olaide_lawal_title": {
+      "field": "olaide_lawal_title",
+      "value": "Chief Operating Officer since formation (October 2024)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "olaide_lawal_background": {
+      "field": "olaide_lawal_background",
+      "value": "Managing Partner of affiliate Kaminskiy Care and Repair Inc since October 2022; Managing Partner of Barah Capital Partners, Detroit, Michigan since June 2015; Managing Partner of Unified Dental Partners, Detroit, Michigan since June 2015",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "david_sparks_title": {
+      "field": "david_sparks_title",
+      "value": "Franchise Development Officer since formation (October 2024)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "david_sparks_background": {
+      "field": "david_sparks_background",
+      "value": "Development Officer of affiliate Kaminskiy Care and Repair Inc since October 2022; CEO of Just A Web Company, Inc, Temecula, California since June 2011",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "laura_hettinger_title": {
+      "field": "laura_hettinger_title",
+      "value": "Head of Admin since formation (October 2024)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "laura_hettinger_background": {
+      "field": "laura_hettinger_background",
+      "value": "Head of Admin and Operations Manager of affiliate Kaminskiy Care and Repair Inc since January 2023; Treatment Coordinator, Clairemont Mesa Dental Services, San Diego (Oct 2021-Dec 2022); Researcher, Construction Notice Services, San Diego (Jan-Jun 2021); Customer Service Lead, Pure Water Technology of San Diego (Feb 2016-Jan 2020)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "elias_reyna_title": {
+      "field": "elias_reyna_title",
+      "value": "Client Relationship Manager since formation (October 2024)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "elias_reyna_background": {
+      "field": "elias_reyna_background",
+      "value": "Client Relationship Manager of affiliate Kaminskiy Care and Repair Inc since December 2022; Material Handler, Thermo Fisher, San Diego (Feb-Nov 2022)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "9"
+    },
+    "douglas_edward_title": {
+      "field": "douglas_edward_title",
+      "value": "Estimating and Training Manager since formation (October 2024)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "10"
+    },
+    "douglas_edward_background": {
+      "field": "douglas_edward_background",
+      "value": "Estimating Manager of affiliate Kaminskiy Care and Repair Inc since October 2023; Owner/CEO, Surface Sealers of Delmarva, LLC, Delmar, Maryland (Oct 2021-Oct 2023); Sales Representative, Universal Supply Co, Salisbury, Maryland (Oct 2020-Oct 2021); Business Manager, Ace Hardware, Salisbury, Maryland (Jun 2018-Jun 2020)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "10"
+    },
+    "dederick_blair_title": {
+      "field": "dederick_blair_title",
+      "value": "Senior Project Manager since formation (October 2024)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "10"
+    },
+    "dederick_blair_background": {
+      "field": "dederick_blair_background",
+      "value": "Estimator (Aug 2022-May 2023) and Consultant (Apr-Aug 2022), Homebound Technologies, San Francisco, California; Senior Estimator, Drees Custom Homes, Austin, Texas (Feb 2018-Mar 2022)",
+      "type": "absolute",
+      "item": "Item 2",
+      "page": "10"
+    },
+    "litigation_disclosure": {
+      "field": "litigation_disclosure",
+      "value": "There is no litigation that is required to be disclosed in this Item.",
+      "type": "absolute",
+      "item": "Item 3",
+      "page": "10"
+    },
+    "bankruptcy_disclosure": {
+      "field": "bankruptcy_disclosure",
+      "value": "No bankruptcy information is required to be disclosed in this Item.",
+      "type": "absolute",
+      "item": "Item 4",
+      "page": "10"
+    },
+    "initial_franchise_fee": {
+      "field": "initial_franchise_fee",
+      "value": 74995,
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "10"
+    },
+    "initial_fee_paid_at": {
+      "field": "initial_fee_paid_at",
+      "value": "when you sign the Franchise Agreement",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "10"
+    },
+    "initial_fee_refundability": {
+      "field": "initial_fee_refundability",
+      "value": "uniform to all franchisees; deemed fully earned and nonrefundable upon payment",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "10"
+    },
+    "preopening_marketing_fee": {
+      "field": "preopening_marketing_fee",
+      "value": 40000,
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "10",
+      "note": "paid to us or our affiliates prior to opening; services commence ~2-6 months prior to opening"
+    },
+    "grand_opening_fee": {
+      "field": "grand_opening_fee",
+      "value": 2000,
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "10",
+      "note": "grand opening marketing begins 30-60 days prior to opening, through 30 days after opening; paid to us or our affiliates"
+    },
+    "initial_fees_refundability": {
+      "field": "initial_fees_refundability",
+      "value": "Initial Franchise Fee, Grand Opening Fee and Pre-Opening Marketing Fee are fully earned when paid and not refundable under any circumstances",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "10"
+    },
+    "initial_fees_financing": {
+      "field": "initial_fees_financing",
+      "value": "may reduce, finance, defer or waive the fees in a unique or compelling situation; generally does not provide financing for them",
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "10"
+    },
+    "amount_paid_to_franchisor_at_signing": {
+      "field": "amount_paid_to_franchisor_at_signing",
+      "value": 116995,
+      "type": "absolute",
+      "item": "Item 5",
+      "page": "1",
+      "note": "franchise fee $74,995 + pre-opening marketing $40,000 + grand opening $2,000; FDD cover sheet confirms $116,995 must be paid to franchisor/affiliates"
+    },
+    "royalty_rate": {
+      "field": "royalty_rate",
+      "value": "7% of Gross Revenue",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "11"
+    },
+    "royalty_due": {
+      "field": "royalty_due",
+      "value": "monthly; franchisor reserves the right to change timing/frequency of collection on 30 days' notice",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "11"
+    },
+    "brand_fund_contribution": {
+      "field": "brand_fund_contribution",
+      "value": "1% of Gross Revenue monthly; may be increased to a maximum of 3% on 30 days' written notice",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "11"
+    },
+    "local_advertising_requirement": {
+      "field": "local_advertising_requirement",
+      "value": "minimum $3,000 per month, spent weekly on advertising targeting the operating area",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "11"
+    },
+    "local_advertising_direction": {
+      "field": "local_advertising_direction",
+      "value": "franchisor may direct kinds of advertising and require payment to franchisor or designated vendor; amount changeable on 30 days' notice",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "11"
+    },
+    "admin_service_management_fee": {
+      "field": "admin_service_management_fee",
+      "value": "$1,500 to $3,000 per month depending on Designated Territory size; spent on administrative services from approved supplier; changeable on 30 days' notice",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "11"
+    },
+    "technology_fee": {
+      "field": "technology_fee",
+      "value": "$1,000 per month for digital products/services; amount/coverage may be modified on written notice; increases only tied to service changes or cost increases",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "11-12"
+    },
+    "initial_training_fee": {
+      "field": "initial_training_fee",
+      "value": "$0 for up to 3 people; $500 per additional person; travel and lodging at franchisee expense",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "12"
+    },
+    "ongoing_training_fee": {
+      "field": "ongoing_training_fee",
+      "value": "$500 per day per employee plus travel costs, on demand, if requested or required for additional/remedial training",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "12"
+    },
+    "transfer_fee": {
+      "field": "transfer_fee",
+      "value": "$25,000; $5,000 non-refundable deposit; due before transfer becomes effective",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "12"
+    },
+    "renewal_fee": {
+      "field": "renewal_fee",
+      "value": "greater of (i) $10,000 or (ii) 25% of the then-current franchise fee, per Designated Territory; due on execution of the renewal agreement",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "12"
+    },
+    "audit_fee": {
+      "field": "audit_fee",
+      "value": "franchisor's costs if an audit determines Gross Revenue underreported by 2% or more, or if audit performed due to failure to make a required report; plus unpaid Royalty/Brand Fund amounts",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "12-13"
+    },
+    "interest_rate": {
+      "field": "interest_rate",
+      "value": "5% per annum or the maximum rate permitted by applicable law, if less; accrues from the due date",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "13"
+    },
+    "indemnification_fee": {
+      "field": "indemnification_fee",
+      "value": "amount of claims, on demand, for costs covered by the indemnification obligation (FA §11.2)",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "13"
+    },
+    "alternative_supplier_evaluation_fee": {
+      "field": "alternative_supplier_evaluation_fee",
+      "value": "franchisor's costs, on demand, for evaluating an unapproved product/supplier regardless of outcome",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "13"
+    },
+    "annual_convention_fee": {
+      "field": "annual_convention_fee",
+      "value": "$1,500 per attendee, on demand; Operating Principal required to attend and fee is payable even if choosing not to attend; franchisee pays its own attendance expenses",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "13"
+    },
+    "relocation_fee": {
+      "field": "relocation_fee",
+      "value": "$5,000, due with the relocation request",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "13"
+    },
+    "management_fee": {
+      "field": "management_fee",
+      "value": "10% of Gross Revenue for the period the franchisor manages the Franchised Business, in addition to the Royalty Fee",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "13-14"
+    },
+    "reimbursement_fee": {
+      "field": "reimbursement_fee",
+      "value": "franchisor's costs (including administrative costs), on demand, for satisfying any franchisee obligation",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "14"
+    },
+    "fees_uniformity_note": {
+      "field": "fees_uniformity_note",
+      "value": "unless otherwise stated, all fees paid to franchisor are uniformly imposed and non-refundable",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "14"
+    },
+    "ach_collection": {
+      "field": "ach_collection",
+      "value": "franchisor may collect all fees via ACH; franchisee may have only one bank account for the Franchised Business, with view-only access for franchisor",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "14"
+    },
+    "gross_revenue_definition": {
+      "field": "gross_revenue_definition",
+      "value": "all income of any type or nature from operation of the Franchised Business after signing, from any source and in any form (cash, services, in-kind, barter, gift cards when purchased, credit), including business interruption insurance proceeds, without deduction for expenses (including marketing expenses and taxes)",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "14"
+    },
+    "inv_initial_franchise_fee": {
+      "field": "inv_initial_franchise_fee",
+      "value": "$74,995 to $74,995",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15"
+    },
+    "inv_rent_3mo": {
+      "field": "inv_rent_3mo",
+      "value": "$0 to $1,500",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15",
+      "note": "low estimate assumes home-based operation"
+    },
+    "inv_management_technology_system": {
+      "field": "inv_management_technology_system",
+      "value": "$1,000 to $3,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15"
+    },
+    "inv_preopening_marketing": {
+      "field": "inv_preopening_marketing",
+      "value": "$40,000 to $40,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15"
+    },
+    "inv_insurance_3mo": {
+      "field": "inv_insurance_3mo",
+      "value": "$5,000 to $7,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15"
+    },
+    "inv_training_expenses": {
+      "field": "inv_training_expenses",
+      "value": "$500 to $5,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15",
+      "note": "for 3 people attending initial training in San Diego, California; excludes employee salaries"
+    },
+    "inv_grand_opening": {
+      "field": "inv_grand_opening",
+      "value": "$2,000 to $2,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15"
+    },
+    "inv_professional_fees": {
+      "field": "inv_professional_fees",
+      "value": "$2,000 to $5,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15",
+      "note": "attorneys and accountants"
+    },
+    "inv_permits_licenses": {
+      "field": "inv_permits_licenses",
+      "value": "$1,000 to $2,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15"
+    },
+    "inv_additional_funds_3mo": {
+      "field": "inv_additional_funds_3mo",
+      "value": "$40,000 to $55,000",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15",
+      "note": "operating capital for first 3 months after opening"
+    },
+    "inv_total_low": {
+      "field": "inv_total_low",
+      "value": 166495,
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15"
+    },
+    "inv_total_high": {
+      "field": "inv_total_high",
+      "value": 195495,
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "15"
+    },
+    "training_location": {
+      "field": "training_location",
+      "value": "San Diego, California",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "16"
+    },
+    "training_attendees_count": {
+      "field": "training_attendees_count",
+      "value": "3 people: the Operating Principal (if an entity) plus the Key Manager",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "16"
+    },
+    "home_based_low_estimate": {
+      "field": "home_based_low_estimate",
+      "value": "low estimates assume operation from home; high estimate assumes a single-unit office or shared workspace",
+      "type": "absolute",
+      "item": "Item 7",
+      "page": "16"
+    },
+    "supply_specs_rights": {
+      "field": "supply_specs_rights",
+      "value": "franchisor may require operating assets, products, supplies and services to meet its specs, be a specific brand/kind/model, be purchased only from approved suppliers, and/or be purchased only from a single designated source (which may include franchisor or affiliates or a buying cooperative)",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "17"
+    },
+    "supply_mandatory_offerings": {
+      "field": "supply_mandatory_offerings",
+      "value": "franchisee must offer to customers only products/services approved in writing; must offer all items designated mandatory; may sell only approved varieties, forms and packages",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "17"
+    },
+    "supply_inventory": {
+      "field": "supply_inventory",
+      "value": "must maintain a sufficient supply of required products to meet inventory standards in the Manual (or reasonably anticipated demand)",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "17"
+    },
+    "supply_specs_change": {
+      "field": "supply_specs_change",
+      "value": "franchisor may change specifications periodically and designate specific products/services as optional or mandatory",
+      "type": "absolute",
+      "item": "Item 8",
+      "page": "17"
+    },
+    "franchisee_obligations_table": {
+      "field": "franchisee_obligations_table",
+      "value": [
+        {
+          "obligation": "site selection and acquisition/lease",
+          "fa_section": "FA Article VI",
+          "fdd_item": "ITEMS 6 and 11"
+        },
+        {
+          "obligation": "pre-opening purchases/leases",
+          "fa_section": "FA §5.9",
+          "fdd_item": "ITEMS 7 and 8"
+        },
+        {
+          "obligation": "site development and other pre-opening requirements",
+          "fa_section": "FA Article VI",
+          "fdd_item": "ITEMS 6, 7 and 11"
+        },
+        {
+          "obligation": "initial and ongoing training",
+          "fa_section": "FA §6.3",
+          "fdd_item": "ITEMS 6, 7 and 11"
+        },
+        {
+          "obligation": "opening",
+          "fa_section": "FA §7.1",
+          "fdd_item": "ITEM 11"
+        },
+        {
+          "obligation": "fees",
+          "fa_section": "FA Article V",
+          "fdd_item": "ITEMS 5, 6 and 7"
+        },
+        {
+          "obligation": "compliance with standards and policies/Operations Manual",
+          "fa_section": "FA 6.4",
+          "fdd_item": "ITEMS 8 and 11"
+        },
+        {
+          "obligation": "trademarks and proprietary information",
+          "fa_section": "FA Article IV & XII",
+          "fdd_item": "ITEMS 13 and 14"
+        },
+        {
+          "obligation": "restrictions on products/services offered",
+          "fa_section": "FA §7.1, 8.1, 8.4",
+          "fdd_item": "ITEMS 8 and 16"
+        },
+        {
+          "obligation": "warranty and client service requirements",
+          "fa_section": "FA Article VIII",
+          "fdd_item": "ITEM 11"
+        },
+        {
+          "obligation": "territorial development",
+          "fa_section": "FA §1.3",
+          "fdd_item": "ITEM 12"
+        },
+        {
+          "obligation": "on-going product/service purchases",
+          "fa_section": "FA Article VIII",
+          "fdd_item": "ITEM 8"
+        },
+        {
+          "obligation": "maintenance, appearance, and remodeling requirements",
+          "fa_section": "FA §7.1",
+          "fdd_item": "ITEMS 6 and 11"
+        },
+        {
+          "obligation": "insurance",
+          "fa_section": "FA §10.4",
+          "fdd_item": "ITEMS 6, 7 and 8"
+        },
+        {
+          "obligation": "advertising",
+          "fa_section": "FA Article IX",
+          "fdd_item": "ITEMS 6, 7 and 11"
+        },
+        {
+          "obligation": "indemnification",
+          "fa_section": "FA §11.2",
+          "fdd_item": "ITEM 6"
+        },
+        {
+          "obligation": "owner's participation/management/staffing",
+          "fa_section": "FA §8.6",
+          "fdd_item": "ITEMS 11 and 15"
+        },
+        {
+          "obligation": "records/reports",
+          "fa_section": "FA §10.1",
+          "fdd_item": "ITEM 6"
+        },
+        {
+          "obligation": "inspections/audits",
+          "fa_section": "FA 10.2",
+          "fdd_item": "ITEMS 6 and 11"
+        },
+        {
+          "obligation": "transfer",
+          "fa_section": "FA Article XIV",
+          "fdd_item": "ITEM 17"
+        },
+        {
+          "obligation": "renewal",
+          "fa_section": "FA §3.2",
+          "fdd_item": "ITEM 17"
+        },
+        {
+          "obligation": "post-termination obligations",
+          "fa_section": "FA Article XI & XV",
+          "fdd_item": "ITEM 17"
+        },
+        {
+          "obligation": "non-competition covenants",
+          "fa_section": "FA Article XIII",
+          "fdd_item": "ITEM 17"
+        },
+        {
+          "obligation": "dispute resolution",
+          "fa_section": "FA Article XVI",
+          "fdd_item": "ITEM 17"
+        }
+      ],
+      "type": "absolute",
+      "item": "Item 9",
+      "page": "20"
+    },
+    "financing_offered": {
+      "field": "financing_offered",
+      "value": "insufficient-data: franchisor and affiliates do not offer direct or indirect financing arrangements for any purpose in establishing or operating the Franchised Business",
+      "type": "absolute",
+      "item": "Item 10",
+      "page": "20"
+    },
+    "financing_guaranty": {
+      "field": "financing_guaranty",
+      "value": "insufficient-data: franchisor and affiliates do not guarantee the franchisee's promissory note, lease, or any other obligation",
+      "type": "absolute",
+      "item": "Item 10",
+      "page": "20"
+    },
+    "assistance_default": {
+      "field": "assistance_default",
+      "value": "except as listed, franchisor is not required to provide the franchisee with any assistance",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "preopen_initial_training": {
+      "field": "preopen_initial_training",
+      "value": "franchisor provides the Initial Training Program to the franchisee (or Operating Principal if an entity) and the Key Manager, at franchisor's corporate headquarters or another designated training facility (FA §6.3)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "preopen_site_selection_area": {
+      "field": "preopen_site_selection_area",
+      "value": "if the Approved Location is not identified at signing, franchisor works with the franchisee to designate a geographical Site Selection Area within which an Approved Location must be secured (FA §1.3)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "preopen_manual_loan": {
+      "field": "preopen_manual_loan",
+      "value": "franchisor loans one copy of the confidential Operations Manual prior to initial training; the Manual is franchisor's property and may be modified (FA §6.4)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "preopen_equipment_list": {
+      "field": "preopen_equipment_list",
+      "value": "franchisor provides a list of equipment, gear, standard fixtures, furnishings, supplies and signs for the Franchised Business",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "21"
+    },
+    "preopen_approved_suppliers": {
+      "field": "preopen_approved_suppliers",
+      "value": "franchisor provides a list of Approved Suppliers (FA §6.6)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "22"
+    },
+    "preopen_trademark_license": {
+      "field": "preopen_trademark_license",
+      "value": "franchisor licenses the right to use its trademarks (FA §4.2)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "22"
+    },
+    "preopen_grand_opening_advice": {
+      "field": "preopen_grand_opening_advice",
+      "value": "franchisor consults and advises on grand-opening advertising, marketing and promotion (FA §§6.9, 9.2)",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "22"
+    },
+    "site_selection_rules": {
+      "field": "site_selection_rules",
+      "value": "franchisee selects the site per franchisor guidelines and verifies compliance; franchisor does not select the site; site must be approved",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "22"
+    },
+    "home_based_allowed": {
+      "field": "home_based_allowed",
+      "value": "may operate the Franchised Business from home if the home is within the Designated Territory, local zoning permits, and franchisor gives written approval; office space may be leased instead",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "22"
+    },
+    "brand_fund_administration": {
+      "field": "brand_fund_administration",
+      "value": "franchisor administers the Brand Fund and reports on its use per the Franchise Agreement",
+      "type": "absolute",
+      "item": "Item 11",
+      "page": "23",
+      "note": "best-effort: Brand Fund noted in Item 6; Item 11 text describes marketing program administration"
+    },
+    "training_no_fee_first_three": {
+      "field": "training_no_fee_first_three",
+      "value": "no fee for the Initial Training Program for up to 3 people; franchisee pays all travel/lodging costs for training attendees",
+      "type": "absolute",
+      "item": "Item 6",
+      "page": "12",
+      "note": "cross-cited from Item 6 fee table"
+    },
+    "designated_territory": {
+      "field": "designated_territory",
+      "value": "upon securing the Approved Location, franchisor provides a Designated Territory (described by zip codes or geographical boundaries) in which the franchisee has protected rights",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "28"
+    },
+    "territory_protection": {
+      "field": "territory_protection",
+      "value": "if the franchisee is in compliance, franchisor will not own, operate, franchise, or license any other Franchised Businesses within the Designated Territory during the term",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "28"
+    },
+    "territory_overlap_warning": {
+      "field": "territory_overlap_warning",
+      "value": "although no Franchised Business will be physically located within the Designated Territory, the Designated Territory may overlap with those of other franchisees or affiliate-owned locations",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "28"
+    },
+    "territory_typical_size": {
+      "field": "territory_typical_size",
+      "value": "typical Designated Territory includes approximately 40,000 to 60,000 target households",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "29"
+    },
+    "territory_sizing_factors": {
+      "field": "territory_sizing_factors",
+      "value": "territory size varies by population density and demographics: population base, growth trends, affluence, density of residential/business entities, competitor locations, and topography (rivers, mountains, freeways, undeveloped land); population from publicly available sources (e.g., U.S. Census Bureau)",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "29"
+    },
+    "territory_not_sales_dependent": {
+      "field": "territory_not_sales_dependent",
+      "value": "continuation of the right to operate in the Designated Territory is not dependent on achieving a sales volume, market penetration, or other contingency",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "28"
+    },
+    "territory_rights_reserved": {
+      "field": "territory_rights_reserved",
+      "value": [
+        "merger/acquisition businesses under other marks anywhere (may convert locations)",
+        "acquisition by a competing business (may require conversion of Franchised Businesses)",
+        "alternative distribution channels (mail order, catalog, telemarketing, internet) inside or outside the territory",
+        "businesses under different marks with identical/similar products and services inside or outside the territory",
+        "use/licensing of the System for other System franchisees outside the Designated Territory",
+        "e-commerce and broadcast/retail sales under the Marks or other marks anywhere"
+      ],
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "28-29"
+    },
+    "no_compensation_for_reserved_sales": {
+      "field": "no_compensation_for_reserved_sales",
+      "value": "franchisor and affiliates are under no obligation to pay the franchisee compensation for selling similar products/services through other channels or marks within the Designated Territory",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "29"
+    },
+    "no_alt_channels": {
+      "field": "no_alt_channels",
+      "value": "franchisee has no right to distribute through alternate channels (Internet, telemarketing, catalogs, mail order); may obtain business from any geography but may not conduct sales from any location other than the Franchised Business premises or advertise primarily toward another franchisee's territory",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "28-30"
+    },
+    "no_additional_territory_rights": {
+      "field": "no_additional_territory_rights",
+      "value": "no option, right of first refusal, or similar right to acquire additional franchises within the Designated Territory or contiguous territories",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "30"
+    },
+    "item12_exclusivity": {
+      "field": "item12_exclusivity",
+      "value": "non-exclusive",
+      "type": "absolute",
+      "item": "Item 12",
+      "page": "28-30",
+      "note": "franchisor reserves broad carve-outs (alt channels, other marks, overlap) despite in-territory protection against other same-brand Franchised Businesses"
+    },
+    "principal_trademark": {
+      "field": "principal_trademark",
+      "value": "Kaminskiy Care and Repair (word trademark)",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "30"
+    },
+    "trademark_application": {
+      "field": "trademark_application",
+      "value": "USPTO Principal Register application Serial No. 98,821,188 filed October 25, 2024 (a second filing 98,821,412 same date); all required affidavits filed",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "30"
+    },
+    "trademark_registration_status": {
+      "field": "trademark_registration_status",
+      "value": "NO federal registration: at issuance the mark does not have the legal benefits of a federally registered trademark; if use is challenged, the franchisee may have to change to an alternative trademark at increased expense",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "30"
+    },
+    "trademark_prior_rights": {
+      "field": "trademark_prior_rights",
+      "value": "franchisor is not aware of any superior prior rights or infringing uses that could materially affect franchisee use of the principal trademark",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "30"
+    },
+    "trademark_determinations": {
+      "field": "trademark_determinations",
+      "value": "insufficient-data: no effective USPTO/TTAB/court determinations, pending infringement/opposition/cancellation actions, or pending material litigation involving the marks",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "30-31"
+    },
+    "trademark_limiting_agreements": {
+      "field": "trademark_limiting_agreements",
+      "value": "insufficient-data: no agreements limiting the franchisor's rights to use or license the marks disclosed",
+      "type": "absolute",
+      "item": "Item 13",
+      "page": "31"
+    },
+    "patents": {
+      "field": "patents",
+      "value": "insufficient-data: franchisor does not own any registered patents material to the franchise",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "32"
+    },
+    "copyright_claims": {
+      "field": "copyright_claims",
+      "value": "copyright claimed (unregistered) for the System: Operations Manual and other manuals, advertising/promotional materials, training materials and programs, videos, proprietary computer software and applications, architectural plans and designs, websites and web pages, and all other written development/operations material",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "32"
+    },
+    "copyright_determinations": {
+      "field": "copyright_determinations",
+      "value": "insufficient-data: no effective determinations of the Copyright Office, USPTO or any court, nor pending litigation/proceedings regarding copyrighted materials; no known superior prior rights or infringing uses",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "32"
+    },
+    "proprietary_info_duty": {
+      "field": "proprietary_info_duty",
+      "value": "franchisee must protect the Operations Manual and confidential/proprietary information; manual remains franchisor property",
+      "type": "absolute",
+      "item": "Item 14",
+      "page": "32",
+      "note": "best-effort: drawn from Item 11 manual-loan terms and Item 14 protection claims"
+    },
+    "operating_principal_participation": {
+      "field": "operating_principal_participation",
+      "value": "franchisor strongly recommends the franchisee (or Operating Principal) personally participate in operation; franchisor may rely on the Operating Principal's statements; Operating Principal may not be changed without prior written approval",
+      "type": "absolute",
+      "item": "Item 15",
+      "page": "33"
+    },
+    "key_manager_requirement_ops": {
+      "field": "key_manager_requirement_ops",
+      "value": "if the franchisee/Operating Principal do not participate day-to-day, a Key Manager approved by franchisor must provide direct on-premises supervision during all hours of operation",
+      "type": "absolute",
+      "item": "Item 15",
+      "page": "33"
+    },
+    "entity_restriction": {
+      "field": "entity_restriction",
+      "value": "if an entity, franchisee must be a single-purpose entity and may not operate any other business using the entity name",
+      "type": "absolute",
+      "item": "Item 15",
+      "page": "33"
+    },
+    "sale_limitation": {
+      "field": "sale_limitation",
+      "value": "must limit business to the operation of the Franchised Business; may not conduct any other business/activity at the Franchised Business without written permission",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "34"
+    },
+    "retail_only": {
+      "field": "retail_only",
+      "value": "may sell products at retail only; may not engage in wholesale or distribution of any product",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "34"
+    },
+    "one_location_sales": {
+      "field": "one_location_sales",
+      "value": "franchise is limited to one location; all sales must be from that one location",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "34"
+    },
+    "customer_restrictions": {
+      "field": "customer_restrictions",
+      "value": "no general limit on persons served, but franchisor may impose minimum age restrictions and other requirements for safety or goodwill",
+      "type": "absolute",
+      "item": "Item 16",
+      "page": "34"
+    },
+    "initial_term_years": {
+      "field": "initial_term_years",
+      "value": 10,
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "35",
+      "note": "FA §3.1"
+    },
+    "renewal_rights": {
+      "field": "renewal_rights",
+      "value": "right to renew for 2 additional 5-year terms if requirements are met (FA §3.2)",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "35"
+    },
+    "renewal_requirements": {
+      "field": "renewal_requirements",
+      "value": [
+        "complied with all Franchise Agreement provisions",
+        "not in default",
+        "brought the Franchised Business into compliance with current standards",
+        "renewal notice 90-180 days before end of initial term",
+        "signed then-current form of Franchise Agreement (may differ materially)",
+        "paid the renewal fee"
+      ],
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "35",
+      "note": "FA §§3.2-3.4"
+    },
+    "dispute_resolution": {
+      "field": "dispute_resolution",
+      "value": "mediation, then binding arbitration before a single arbitrator (FA Article XVI)",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "37"
+    },
+    "termination_conditions": {
+      "field": "termination_conditions",
+      "value": "franchisor may terminate for franchisee breach/default; non-curable defaults and cure periods per the Franchise Agreement table (insufficient-detail on each default class beyond the table summary)",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "35-36"
+    },
+    "transfer_conditions": {
+      "field": "transfer_conditions",
+      "value": "franchisee may not transfer without franchisor consent; $25,000 transfer fee with $5,000 non-refundable deposit (Item 6, p.12); transfer conditions per FA Article XIV",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "37",
+      "note": "cross-cited Item 6"
+    },
+    "noncompete_during_term": {
+      "field": "noncompete_during_term",
+      "value": "non-competition covenants apply during the term (FA Article XIII); post-term covenant length/geography insufficient-detail in extract",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "37"
+    },
+    "post_termination_summary": {
+      "field": "post_termination_summary",
+      "value": "post-termination obligations per FA Articles XI & XV (insufficient-detail on each obligation beyond the table)",
+      "type": "absolute",
+      "item": "Item 17",
+      "page": "37"
+    },
+    "public_figures": {
+      "field": "public_figures",
+      "value": "insufficient-data: franchisor does not currently use any public figure to promote its franchise",
+      "type": "absolute",
+      "item": "Item 18",
+      "page": "38"
+    },
+    "item19_outlets_covered": {
+      "field": "item19_outlets_covered",
+      "value": "2 company-owned Disclosed Outlets (San Diego and East Bay, California), selected because they operated throughout the Measurement Period",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "39"
+    },
+    "item19_measurement_period": {
+      "field": "item19_measurement_period",
+      "value": "combined historical results for FY2023 and January through July 2024",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "39"
+    },
+    "item19_company_outlets_total": {
+      "field": "item19_company_outlets_total",
+      "value": "5 company-owned outlets as of December 31, 2023",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "39"
+    },
+    "item19_basis": {
+      "field": "item19_basis",
+      "value": "franchisor states it has a reasonable basis and written substantiation for the financial performance information",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "39"
+    },
+    "item19_fy2023_sd_gross_revenue": {
+      "field": "item19_fy2023_sd_gross_revenue",
+      "value": 1217466,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_gross_revenue": {
+      "field": "item19_fy2023_eb_gross_revenue",
+      "value": 482904,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_cogs": {
+      "field": "item19_fy2023_sd_cogs",
+      "value": 629351,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_cogs": {
+      "field": "item19_fy2023_eb_cogs",
+      "value": 303323,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_gross_profit": {
+      "field": "item19_fy2023_sd_gross_profit",
+      "value": 588116,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_gross_profit": {
+      "field": "item19_fy2023_eb_gross_profit",
+      "value": 179581,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_advertising_marketing": {
+      "field": "item19_fy2023_sd_advertising_marketing",
+      "value": 93201,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_advertising_marketing": {
+      "field": "item19_fy2023_eb_advertising_marketing",
+      "value": 54526,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_employee_benefits": {
+      "field": "item19_fy2023_sd_employee_benefits",
+      "value": 8621,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_employee_benefits": {
+      "field": "item19_fy2023_eb_employee_benefits",
+      "value": 9753,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_payroll": {
+      "field": "item19_fy2023_sd_payroll",
+      "value": 92808,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_payroll": {
+      "field": "item19_fy2023_eb_payroll",
+      "value": 36000,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_office": {
+      "field": "item19_fy2023_sd_office",
+      "value": 12331,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_office": {
+      "field": "item19_fy2023_eb_office",
+      "value": 4107,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_rent_utilities": {
+      "field": "item19_fy2023_sd_rent_utilities",
+      "value": 8734,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_rent_utilities": {
+      "field": "item19_fy2023_eb_rent_utilities",
+      "value": 8734,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_other_opex": {
+      "field": "item19_fy2023_sd_other_opex",
+      "value": 5908,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_other_opex": {
+      "field": "item19_fy2023_eb_other_opex",
+      "value": 6516,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_royalty_est": {
+      "field": "item19_fy2023_sd_royalty_est",
+      "value": 85223,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "7% estimated royalty as-if franchised"
+    },
+    "item19_fy2023_eb_royalty_est": {
+      "field": "item19_fy2023_eb_royalty_est",
+      "value": 33803,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "7% estimated royalty as-if franchised"
+    },
+    "item19_fy2023_sd_brand_est": {
+      "field": "item19_fy2023_sd_brand_est",
+      "value": 12175,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "1% estimated brand fund as-if franchised"
+    },
+    "item19_fy2023_eb_brand_est": {
+      "field": "item19_fy2023_eb_brand_est",
+      "value": 4829,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "1% estimated brand fund as-if franchised"
+    },
+    "item19_fy2023_sd_total_expenses": {
+      "field": "item19_fy2023_sd_total_expenses",
+      "value": 319001,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_total_expenses": {
+      "field": "item19_fy2023_eb_total_expenses",
+      "value": 158268,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_ebitda_if_franchised": {
+      "field": "item19_fy2023_sd_ebitda_if_franchised",
+      "value": 269115,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_ebitda_if_franchised": {
+      "field": "item19_fy2023_eb_ebitda_if_franchised",
+      "value": 21313,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_sd_ebitda_margin": {
+      "field": "item19_fy2023_sd_ebitda_margin",
+      "value": "22%",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_fy2023_eb_ebitda_margin": {
+      "field": "item19_fy2023_eb_ebitda_margin",
+      "value": "4%",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_sd_gross_revenue": {
+      "field": "item19_ytd2024_sd_gross_revenue",
+      "value": 758325,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "Jan 1 - Jul 31, 2024"
+    },
+    "item19_ytd2024_eb_gross_revenue": {
+      "field": "item19_ytd2024_eb_gross_revenue",
+      "value": 552991,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "Jan 1 - Jul 31, 2024"
+    },
+    "item19_ytd2024_sd_cogs": {
+      "field": "item19_ytd2024_sd_cogs",
+      "value": 460338,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_eb_cogs": {
+      "field": "item19_ytd2024_eb_cogs",
+      "value": 319671,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_sd_gross_profit": {
+      "field": "item19_ytd2024_sd_gross_profit",
+      "value": 297987,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_eb_gross_profit": {
+      "field": "item19_ytd2024_eb_gross_profit",
+      "value": 233319,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_sd_advertising_marketing": {
+      "field": "item19_ytd2024_sd_advertising_marketing",
+      "value": 33217,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_eb_advertising_marketing": {
+      "field": "item19_ytd2024_eb_advertising_marketing",
+      "value": 50057,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_sd_payroll": {
+      "field": "item19_ytd2024_sd_payroll",
+      "value": 32363,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_eb_payroll": {
+      "field": "item19_ytd2024_eb_payroll",
+      "value": 21000,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_sd_royalty_est": {
+      "field": "item19_ytd2024_sd_royalty_est",
+      "value": 53083,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "7% estimated as-if franchised"
+    },
+    "item19_ytd2024_eb_royalty_est": {
+      "field": "item19_ytd2024_eb_royalty_est",
+      "value": 38709,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "7% estimated as-if franchised"
+    },
+    "item19_ytd2024_sd_brand_est": {
+      "field": "item19_ytd2024_sd_brand_est",
+      "value": 7583,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "1% estimated as-if franchised"
+    },
+    "item19_ytd2024_eb_brand_est": {
+      "field": "item19_ytd2024_eb_brand_est",
+      "value": 5530,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "1% estimated as-if franchised"
+    },
+    "item19_ytd2024_sd_total_expenses": {
+      "field": "item19_ytd2024_sd_total_expenses",
+      "value": 148443,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_eb_total_expenses": {
+      "field": "item19_ytd2024_eb_total_expenses",
+      "value": 167310,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_sd_ebitda_if_franchised": {
+      "field": "item19_ytd2024_sd_ebitda_if_franchised",
+      "value": 149554,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_eb_ebitda_if_franchised": {
+      "field": "item19_ytd2024_eb_ebitda_if_franchised",
+      "value": 66009,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_sd_ebitda_margin": {
+      "field": "item19_ytd2024_sd_ebitda_margin",
+      "value": "20%",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_ytd2024_eb_ebitda_margin": {
+      "field": "item19_ytd2024_eb_ebitda_margin",
+      "value": "12%",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40"
+    },
+    "item19_average_revenue_fy2023": {
+      "field": "item19_average_revenue_fy2023",
+      "value": 850185,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "mean of the two disclosed outlets: ($1,217,466 + $482,904) / 2"
+    },
+    "item19_average_revenue_ytd2024": {
+      "field": "item19_average_revenue_ytd2024",
+      "value": 655658,
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "40",
+      "note": "mean of the two disclosed outlets Jan-Jul 2024: ($758,325 + $552,991) / 2"
+    },
+    "item19_disclaimer": {
+      "field": "item19_disclaimer",
+      "value": "FTC Franchise Rule permits this only if there is a reasonable basis and it is included in the disclosure document; differing performance information may be given only with actual records of an existing outlet under consideration or as a supplement to this Item 19",
+      "type": "absolute",
+      "item": "Item 19",
+      "page": "39"
+    },
+    "outlets_company_end_2021": {
+      "field": "outlets_company_end_2021",
+      "value": 0,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "outlets_company_end_2022": {
+      "field": "outlets_company_end_2022",
+      "value": 2,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "outlets_company_end_2023": {
+      "field": "outlets_company_end_2023",
+      "value": 5,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "outlets_company_net_change_2022": {
+      "field": "outlets_company_net_change_2022",
+      "value": 2,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "outlets_company_net_change_2023": {
+      "field": "outlets_company_net_change_2023",
+      "value": 3,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "outlets_total_end_2023": {
+      "field": "outlets_total_end_2023",
+      "value": 5,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "item20_table3_ca_2023": {
+      "field": "item20_table3_ca_2023",
+      "value": "3 outlets (2 at start, 1 opened, 0 terminations, 0 reacquired, 0 ceased)",
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42",
+      "note": "labeled 'franchised outlets' in the table; same count as company-owned outlets"
+    },
+    "item20_table3_fl_2023": {
+      "field": "item20_table3_fl_2023",
+      "value": "1 outlet (0 at start, 1 opened)",
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "item20_table3_tx_2023": {
+      "field": "item20_table3_tx_2023",
+      "value": "1 outlet (0 at start, 1 opened)",
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "item20_table3_total_2023": {
+      "field": "item20_table3_total_2023",
+      "value": "5 outlets (5 at start of year across states, 3 opened, 0 terminations, 0 reacquired, 0 ceased)",
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "outlets_transfers_2021_2023": {
+      "field": "outlets_transfers_2021_2023",
+      "value": 0,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42",
+      "note": "no transfers from franchisees to new owners in 2021-2023"
+    },
+    "outlets_projected_next_year": {
+      "field": "outlets_projected_next_year",
+      "value": 0,
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42",
+      "note": "0 signed-but-unopened, 0 projected franchised, 0 projected company-owned as of Dec 31, 2023"
+    },
+    "exhibit_c_current_franchisees": {
+      "field": "exhibit_c_current_franchisees",
+      "value": "NONE",
+      "type": "absolute",
+      "item": "Exhibit C",
+      "page": "54"
+    },
+    "exhibit_c_former_franchisees": {
+      "field": "exhibit_c_former_franchisees",
+      "value": "NONE",
+      "type": "absolute",
+      "item": "Exhibit C",
+      "page": "54"
+    },
+    "outlet_count_note": {
+      "field": "outlet_count_note",
+      "value": "FDD Item 20 counts 5 company-owned outlets at 12/31/2023; Item 19 names 5 company-owned outlets; Exhibit C lists ZERO current and ZERO former franchisees — the franchisor had no third-party franchisees at issuance; 2 additional affiliate outlets (Hillsboro OR, Vancouver WA) are listed in Item 1 as operating 'since 2024'",
+      "type": "absolute",
+      "item": "Item 20",
+      "page": "42"
+    },
+    "outlet_cities_item1": {
+      "field": "outlet_cities_item1",
+      "value": [
+        "Frisco, TX (2 company-owned: parent since 2022; Kaminskiy Care and Repair LLC since 2023)",
+        "San Diego, CA (since 2022)",
+        "Walnut Creek, CA / East Bay (since 2022)",
+        "Naples, FL (since 2023)",
+        "Hillsboro, OR (since 2024)",
+        "Vancouver, WA (since 2024)"
+      ],
+      "type": "absolute",
+      "item": "Item 1",
+      "page": "8-9"
+    },
+    "financial_statements": {
+      "field": "financial_statements",
+      "value": "unaudited opening balance sheet as of October 31 (2024); not reviewed by an accountant; incomplete (no financial statement notes)",
+      "type": "absolute",
+      "item": "Item 21",
+      "page": "44"
+    },
+    "financial_statements_limitation": {
+      "field": "financial_statements_limitation",
+      "value": "formed October 2024; has not been in business 3+ years, so cannot include all statements required by the FTC Rule",
+      "type": "absolute",
+      "item": "Item 21",
+      "page": "44"
+    },
+    "fiscal_year_end": {
+      "field": "fiscal_year_end",
+      "value": "December 31",
+      "type": "absolute",
+      "item": "Item 21",
+      "page": "44"
+    },
+    "fdd_issuance_date": {
+      "field": "fdd_issuance_date",
+      "value": "November 4, 2024",
+      "type": "absolute",
+      "item": "Cover",
+      "page": "1"
+    },
+    "fdd_document_pages": {
+      "field": "fdd_document_pages",
+      "value": 142,
+      "type": "absolute",
+      "item": "PDF",
+      "page": "cover",
+      "note": "verified page count of the source PDF"
+    },
+    "contracts_attached": {
+      "field": "contracts_attached",
+      "value": "Franchise Agreement with attachments (Exhibit E); contracts listed per Item 22 table (insufficient-detail on each attachment beyond the table)",
+      "type": "absolute",
+      "item": "Item 22",
+      "page": "44"
+    },
+    "risk_score_computed": {
+      "field": "risk_score_computed",
+      "value": 46,
+      "type": "theoretical",
+      "method": "5-factor 0-100 model (higher = riskier): legal cleanliness 2/20 (zero litigation/bankruptcy, Items 3-4); outlet stability 8/20 (brand-new system, zero third-party franchisees, 5 company-owned outlets, 2021-2023 net +5, zero closures); fee burden 14/20 (7% royalty + 1% brand + ~$7,500-$9,000/mo fixed fees (local ad $3,000 + admin $1,500-3,000 + tech $1,000) on ~$850k avg revenue = ~18-21% effective before fixed); financial evidence 13/20 (Item 19 n=2 company-owned outlets, unaudited, EBITDA margins 22% vs 4% diverge); trend momentum 9/20 (all-company-owned growth, franchising began Oct 2024, no franchisee validation)"
+    },
+    "closure_rate_3yr_pct": {
+      "field": "closure_rate_3yr_pct",
+      "value": 0,
+      "type": "theoretical",
+      "method": "method: Item 20 Table Nos. 1-3 show zero terminations, reacquisitions, or ceased operations 2021-2023; denominators are company-owned only (no franchisees existed)"
+    },
+    "growth_trend": {
+      "field": "growth_trend",
+      "value": "company-owned outlets 0 -> 5 from 2021 to 2023 (+5 net); 2 more affiliate outlets listed as operating since 2024 (Item 1); franchised outlets: none at issuance",
+      "type": "theoretical",
+      "method": "method: Item 20 Table No. 1 year-end totals + Item 1 affiliate operating-since dates"
+    },
+    "fee_burden_effective_pct": {
+      "field": "fee_burden_effective_pct",
+      "value": 19,
+      "type": "theoretical",
+      "method": "method: 7% royalty + 1% brand fund on Item 19 FY2023 avg revenue $850,185 plus fixed monthly fees (~$8,000/mo blended: $3,000 local ad + $2,000 admin mid + $1,000 tech + $2,000 amortized pre-opening marketing) / $70,849 avg monthly revenue ~= 11.3% fixed + 8% variable = ~19%"
+    },
+    "payback_estimate": {
+      "field": "payback_estimate",
+      "value": "insufficient-data: payback cannot be computed - Item 19 shows gross revenue, operating expenses and as-if-franchised EBITDA for 2 company-owned outlets but no owner-compensation, debt-service, tax, or net-cash-flow figures",
+      "type": "theoretical",
+      "method": "method: payback = initial investment / annual net cash flow; annual net cash flow unavailable in the FDD"
+    },
+    "saturation_estimate": {
+      "field": "saturation_estimate",
+      "value": "insufficient-data: FDD does not publish territory-level outlet-density or household-coverage saturation metrics",
+      "type": "theoretical",
+      "method": "method: territories per Designated-Territory household counts (40,000-60,000, Item 12) - territory saturation data unavailable"
+    },
+    "operational_efficiency_note": {
+      "field": "operational_efficiency_note",
+      "value": "derived: FY2023 San Diego EBITDA margin 22% vs East Bay 4% (as-if franchised); Jan-Jul 2024 20% vs 12% - wide performance dispersion between the two disclosed outlets",
+      "type": "theoretical",
+      "method": "method: Item 19 Table 1 and Table 2 EBITDA-margin rows"
+    },
+    "support_quality_score": {
+      "field": "support_quality_score",
+      "value": "insufficient-data: no franchisee satisfaction data exists (no franchisees at issuance); documented support inputs: Initial Training Program for Operating Principal + Key Manager (Item 11), site-selection assistance, Manual loan, approved-supplier lists, grand-opening marketing advice",
+      "type": "theoretical",
+      "method": "method: franchisee satisfaction surveys - unavailable in FDD"
+    },
+    "macro_cyclicality_note": {
+      "field": "macro_cyclicality_note",
+      "value": "home-repair/maintenance demand is partly discretionary and cyclical with housing/consumer spending; the brand's 'small jobs' positioning and 10,000+ homes serviced (careandrepair.com, 2026-09-12) may dampen but not eliminate cyclicality",
+      "type": "theoretical",
+      "method": "method: sector reasoning labeled theoretical; site marketing claims marked as site claims, not FDD facts"
+    },
+    "capital_fit": {
+      "field": "capital_fit",
+      "value": "initial investment $166,495 - $195,495 (Item 7), of which $116,995 paid to franchisor/affiliates at signing (Item 5); method: match buyer liquid capital at or above ~1.5x the maximum investment",
+      "type": "matching",
+      "method": "buyer liquid capital >= ~$293,000"
+    },
+    "experience_fit": {
+      "field": "experience_fit",
+      "value": "no prior repair/remodeling experience required by the FDD; Operating Principal must hold >=20% equity and a trained Key Manager is required (Item 1/Item 15); method: match buyer willingness to complete initial training and operate or staff a crew",
+      "type": "matching",
+      "method": "buyer completes Initial Training (San Diego, CA) or appoints an approved Key Manager"
+    },
+    "operational_fit": {
+      "field": "operational_fit",
+      "value": "owner-operator strongly recommended (Item 15); home-based operation permitted if the home is in the Designated Territory and zoning/approval allow (Item 11); method: match buyer availability for hands-on supervision",
+      "type": "matching",
+      "method": "owner-operator or Operating Principal participation; home-based possible"
+    },
+    "lifestyle_fit": {
+      "field": "lifestyle_fit",
+      "value": "residential and business repair, maintenance and improvement services - hands-on home-services business with workmanship warranty positioning (careandrepair.com); method: match buyer preference for trade/services work",
+      "type": "matching",
+      "method": "trade-services operator; customer-facing, on-site work"
+    },
+    "risk_fit": {
+      "field": "risk_fit",
+      "value": "risk score 46/100 - moderate, driven by a brand-new franchise system with zero franchisee validation and n=2 Item 19 company outlets; method: match buyer risk tolerance to the 0-100 band",
+      "type": "matching",
+      "method": "risk score 46/100 - moderate"
+    },
+    "location_fit": {
+      "field": "location_fit",
+      "value": "Designated Territory of ~40,000-60,000 target households, zip-code defined (Item 12); contractor licensing often required (Item 1); method: match buyer target market",
+      "type": "matching",
+      "method": "market of 40,000-60,000 target households; licensing per state"
+    },
+    "timeline_fit": {
+      "field": "timeline_fit",
+      "value": "franchising began October 2024; pre-opening marketing commences ~2-6 months prior to opening (Item 5); method: match buyer start-date window",
+      "type": "matching",
+      "method": "signing to opening ~2-6 months"
+    },
+    "contractor_license_fit": {
+      "field": "contractor_license_fit",
+      "value": "many states require contractor/specialty licenses and tests for plumbing/electrical work (Item 1 lists 23 states); method: match buyer's licensure or willingness to obtain it before operating",
+      "type": "matching",
+      "method": "licensed contractor (or obtains required licenses) in the operating state"
+    },
+    "netWorthRequirement": "not disclosed in FDD",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirement": "not disclosed in FDD",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "pinVerification": {
+      "run_at": "2026-09-13T01:48:43Z",
+      "all_verified": true,
+      "pins_total": 6
+    },
+    "pinsUpdatedAt": "2026-09-13T01:48:43Z"
+  },
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-13T01:48:43Z",
+    "pins_total": 6,
+    "pins_verified": 6,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Frisco",
+        "state": "TX",
+        "stored": [
+          33.16393,
+          -96.8335
+        ],
+        "geocoded": [
+          33.1505998,
+          -96.8238183
+        ],
+        "distance_km": 1.73,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "San Diego",
+        "state": "CA",
+        "stored": [
+          32.71568,
+          -117.16171
+        ],
+        "geocoded": [
+          32.7174202,
+          -117.162772
+        ],
+        "distance_km": 0.22,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Walnut Creek",
+        "state": "CA",
+        "stored": [
+          37.91369,
+          -122.0182
+        ],
+        "geocoded": [
+          37.9020731,
+          -122.0618702
+        ],
+        "distance_km": 4.04,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Naples",
+        "state": "FL",
+        "stored": [
+          26.22806,
+          -81.67556
+        ],
+        "geocoded": [
+          26.1421976,
+          -81.7942944
+        ],
+        "distance_km": 15.22,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Hillsboro",
+        "state": "OR",
+        "stored": [
+          45.43141,
+          -122.9641
+        ],
+        "geocoded": [
+          45.5228939,
+          -122.989827
+        ],
+        "distance_km": 10.37,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Vancouver",
+        "state": "WA",
+        "stored": [
+          45.66663,
+          -122.68436
+        ],
+        "geocoded": [
+          45.6306954,
+          -122.6744557
+        ],
+        "distance_km": 4.07,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-13T01:48:43Z",
+  "risk_method": "legal_cleanliness 2/20 + outlet_stability 8/20 + fee_burden 14/20 + financial_evidence 13/20 + trend_momentum 9/20 = 46 (5-factor sum, higher=riskier; source: builder build_fields.py)",
+  "risk_components": [
+    {
+      "name": "legal_cleanliness",
+      "weight": 1.0,
+      "note": "zero litigation/bankruptcy, Items 3-4 (higher=riskier; /20 subscore summed)"
+    },
+    {
+      "name": "outlet_stability",
+      "weight": 1.0,
+      "note": "brand-new system, zero third-party franchisees, 5 company-owned outlets, 2021-2023 net +5, zero closures"
+    },
+    {
+      "name": "fee_burden",
+      "weight": 1.0,
+      "note": "7% royalty + 1% brand + ~$7,500-$9,000/mo fixed fees on ~$850k avg revenue = ~18-21% effective before fixed"
+    },
+    {
+      "name": "financial_evidence",
+      "weight": 1.0,
+      "note": "Item 19 n=2 company-owned outlets, unaudited, EBITDA margins 22% vs 4% diverge"
+    },
+    {
+      "name": "trend_momentum",
+      "weight": 1.0,
+      "note": "all-company-owned growth, franchising began Oct 2024, no franchisee validation"
+    }
+  ],
+  "risk_source": "build_fields.py 5-factor model"
+}
