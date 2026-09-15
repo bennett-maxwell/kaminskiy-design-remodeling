@@ -21,15 +21,15 @@
   "corporateZip": "75034",
   "corporateAddress": "2591 Dallas Pkwy, Suite 300, Frisco, TX 75034",
   "description": "Kaminskiy Design & Remodeling is the San Diego-based home-improvement brand founded by Sergei Kaminskiy in 2005; its franchise arm, Kaminskiy Care and Repair, was formed as Kaminskiy Franchise Group, LLC (Frisco, Texas) in October 2024 and began offering franchises in its 2024 Franchise Disclosure Document (issued November 4, 2024). Franchisees operate a residential and business repair, maintenance and improvement business under the Kaminskiy Care and Repair name - the brand's 'small jobs, big difference' model covers doors, drywall, paint, fences, dry rot and termite repair, and full to-do-list handyman work, with a workmanship warranty and licensed, bonded and insured crews. The FDD discloses zero litigation and zero bankruptcies (Items 3-4), a $74,995 franchise fee, $166,495 to $195,495 estimated initial investment, 7% royalty, and a Designated Territory of roughly 40,000-60,000 target households. At issuance the system had 5 company-owned outlets and zero third-party franchisees; Item 19 reports 2023 average gross revenue of $850,185 across two company-owned outlets (San Diego $1,217,466, East Bay $482,904).",
-  "category": "Home Services — Handyman & Home Repair",
+  "category": "Home Services \u2014 Handyman & Home Repair",
   "websiteUrl": "https://careandrepair.com",
   "yearFounded": 2005,
   "yearFranchising": 2024,
   "fddYear": 2024,
-  "territoryDescription": "Upon securing the Approved Location, the franchisor grants a Designated Territory (described by zip codes or geographical boundaries) in which the franchisee has protected rights: while in compliance, the franchisor will not own, operate, franchise or license any other Franchised Businesses inside the territory. The protection is not absolute — the territory may overlap with other franchisees' or affiliate-owned locations, and the franchisor reserves broad rights including merger/acquisition activity under other marks, being acquired by a competing business, and selling through alternative channels (mail order, catalog, telemarketing, internet, e-commerce, retail) inside or outside the territory, with no compensation owed to the franchisee. A typical territory holds 40,000-60,000 target households. Territory rights are not tied to sales volume, and the franchisee has no right to additional territories or alternate distribution channels. Classified as non-exclusive. (FDD Item 12, pp.28-30)",
+  "territoryDescription": "Upon securing the Approved Location, the franchisor grants a Designated Territory (described by zip codes or geographical boundaries) in which the franchisee has protected rights: while in compliance, the franchisor will not own, operate, franchise or license any other Franchised Businesses inside the territory. The protection is not absolute \u2014 the territory may overlap with other franchisees' or affiliate-owned locations, and the franchisor reserves broad rights including merger/acquisition activity under other marks, being acquired by a competing business, and selling through alternative channels (mail order, catalog, telemarketing, internet, e-commerce, retail) inside or outside the territory, with no compensation owed to the franchisee. A typical territory holds 40,000-60,000 target households. Territory rights are not tied to sales volume, and the franchisee has no right to additional territories or alternate distribution channels. Classified as non-exclusive. (FDD Item 12, pp.28-30)",
   "item12": "non-exclusive",
   "item20PinCount": 6,
-  "hq_source": "FDD Item 1, p.8 (franchisor principal business address); note the brand's consumer site (careandrepair.com, 2026-09-12) says 'Headquartered in San Diego, CA' — that is the design-and-remodeling parent company; the FRANCHISOR HQ per the FDD is Frisco, TX",
+  "hq_source": "FDD Item 1, p.8 (franchisor principal business address); note the brand's consumer site (careandrepair.com, 2026-09-12) says 'Headquartered in San Diego, CA' \u2014 that is the design-and-remodeling parent company; the FRANCHISOR HQ per the FDD is Frisco, TX",
   "risk_score": 46,
   "item19_figure": "Average gross revenue $850,185 (n=2 company-owned outlets, FY2023); San Diego $1,217,466, East Bay $482,904; as-if-franchised EBITDA margins 22% and 4%",
   "item19_confidence": "WEAK (n=2, company-owned not franchised, wide performance dispersion 22% vs 4% margins)",
@@ -40,42 +40,42 @@
       "state": "TX",
       "latitude": 33.16393,
       "longitude": -96.8335,
-      "note": "2 company-owned outlets (parent Kaminskiy Group Inc since 2022; Kaminskiy Care and Repair LLC since 2023) — FDD Item 1, p.8"
+      "note": "2 company-owned outlets (parent Kaminskiy Group Inc since 2022; Kaminskiy Care and Repair LLC since 2023) \u2014 FDD Item 1, p.8"
     },
     {
       "city": "San Diego",
       "state": "CA",
       "latitude": 32.71568,
       "longitude": -117.16171,
-      "note": "company-owned since 2022 — FDD Item 1, p.8"
+      "note": "company-owned since 2022 \u2014 FDD Item 1, p.8"
     },
     {
       "city": "Walnut Creek",
       "state": "CA",
       "latitude": 37.91369,
       "longitude": -122.0182,
-      "note": "East Bay company-owned since 2022 — FDD Item 1, p.8"
+      "note": "East Bay company-owned since 2022 \u2014 FDD Item 1, p.8"
     },
     {
       "city": "Naples",
       "state": "FL",
       "latitude": 26.22806,
       "longitude": -81.67556,
-      "note": "company-owned since 2023 — FDD Item 1, p.8"
+      "note": "company-owned since 2023 \u2014 FDD Item 1, p.8"
     },
     {
       "city": "Hillsboro",
       "state": "OR",
       "latitude": 45.43141,
       "longitude": -122.9641,
-      "note": "Portland-area company-owned since 2024 — FDD Item 1, p.9"
+      "note": "Portland-area company-owned since 2024 \u2014 FDD Item 1, p.9"
     },
     {
       "city": "Vancouver",
       "state": "WA",
       "latitude": 45.66663,
       "longitude": -122.68436,
-      "note": "company-owned since 2024 — FDD Item 1, p.9"
+      "note": "company-owned since 2024 \u2014 FDD Item 1, p.9"
     }
   ],
   "fields": {
@@ -589,7 +589,7 @@
     },
     "indemnification_fee": {
       "field": "indemnification_fee",
-      "value": "amount of claims, on demand, for costs covered by the indemnification obligation (FA §11.2)",
+      "value": "amount of claims, on demand, for costs covered by the indemnification obligation (FA \u00a711.2)",
       "type": "absolute",
       "item": "Item 6",
       "page": "13"
@@ -797,7 +797,7 @@
         },
         {
           "obligation": "pre-opening purchases/leases",
-          "fa_section": "FA §5.9",
+          "fa_section": "FA \u00a75.9",
           "fdd_item": "ITEMS 7 and 8"
         },
         {
@@ -807,12 +807,12 @@
         },
         {
           "obligation": "initial and ongoing training",
-          "fa_section": "FA §6.3",
+          "fa_section": "FA \u00a76.3",
           "fdd_item": "ITEMS 6, 7 and 11"
         },
         {
           "obligation": "opening",
-          "fa_section": "FA §7.1",
+          "fa_section": "FA \u00a77.1",
           "fdd_item": "ITEM 11"
         },
         {
@@ -832,7 +832,7 @@
         },
         {
           "obligation": "restrictions on products/services offered",
-          "fa_section": "FA §7.1, 8.1, 8.4",
+          "fa_section": "FA \u00a77.1, 8.1, 8.4",
           "fdd_item": "ITEMS 8 and 16"
         },
         {
@@ -842,7 +842,7 @@
         },
         {
           "obligation": "territorial development",
-          "fa_section": "FA §1.3",
+          "fa_section": "FA \u00a71.3",
           "fdd_item": "ITEM 12"
         },
         {
@@ -852,12 +852,12 @@
         },
         {
           "obligation": "maintenance, appearance, and remodeling requirements",
-          "fa_section": "FA §7.1",
+          "fa_section": "FA \u00a77.1",
           "fdd_item": "ITEMS 6 and 11"
         },
         {
           "obligation": "insurance",
-          "fa_section": "FA §10.4",
+          "fa_section": "FA \u00a710.4",
           "fdd_item": "ITEMS 6, 7 and 8"
         },
         {
@@ -867,17 +867,17 @@
         },
         {
           "obligation": "indemnification",
-          "fa_section": "FA §11.2",
+          "fa_section": "FA \u00a711.2",
           "fdd_item": "ITEM 6"
         },
         {
           "obligation": "owner's participation/management/staffing",
-          "fa_section": "FA §8.6",
+          "fa_section": "FA \u00a78.6",
           "fdd_item": "ITEMS 11 and 15"
         },
         {
           "obligation": "records/reports",
-          "fa_section": "FA §10.1",
+          "fa_section": "FA \u00a710.1",
           "fdd_item": "ITEM 6"
         },
         {
@@ -892,7 +892,7 @@
         },
         {
           "obligation": "renewal",
-          "fa_section": "FA §3.2",
+          "fa_section": "FA \u00a73.2",
           "fdd_item": "ITEM 17"
         },
         {
@@ -938,21 +938,21 @@
     },
     "preopen_initial_training": {
       "field": "preopen_initial_training",
-      "value": "franchisor provides the Initial Training Program to the franchisee (or Operating Principal if an entity) and the Key Manager, at franchisor's corporate headquarters or another designated training facility (FA §6.3)",
+      "value": "franchisor provides the Initial Training Program to the franchisee (or Operating Principal if an entity) and the Key Manager, at franchisor's corporate headquarters or another designated training facility (FA \u00a76.3)",
       "type": "absolute",
       "item": "Item 11",
       "page": "21"
     },
     "preopen_site_selection_area": {
       "field": "preopen_site_selection_area",
-      "value": "if the Approved Location is not identified at signing, franchisor works with the franchisee to designate a geographical Site Selection Area within which an Approved Location must be secured (FA §1.3)",
+      "value": "if the Approved Location is not identified at signing, franchisor works with the franchisee to designate a geographical Site Selection Area within which an Approved Location must be secured (FA \u00a71.3)",
       "type": "absolute",
       "item": "Item 11",
       "page": "21"
     },
     "preopen_manual_loan": {
       "field": "preopen_manual_loan",
-      "value": "franchisor loans one copy of the confidential Operations Manual prior to initial training; the Manual is franchisor's property and may be modified (FA §6.4)",
+      "value": "franchisor loans one copy of the confidential Operations Manual prior to initial training; the Manual is franchisor's property and may be modified (FA \u00a76.4)",
       "type": "absolute",
       "item": "Item 11",
       "page": "21"
@@ -966,21 +966,21 @@
     },
     "preopen_approved_suppliers": {
       "field": "preopen_approved_suppliers",
-      "value": "franchisor provides a list of Approved Suppliers (FA §6.6)",
+      "value": "franchisor provides a list of Approved Suppliers (FA \u00a76.6)",
       "type": "absolute",
       "item": "Item 11",
       "page": "22"
     },
     "preopen_trademark_license": {
       "field": "preopen_trademark_license",
-      "value": "franchisor licenses the right to use its trademarks (FA §4.2)",
+      "value": "franchisor licenses the right to use its trademarks (FA \u00a74.2)",
       "type": "absolute",
       "item": "Item 11",
       "page": "22"
     },
     "preopen_grand_opening_advice": {
       "field": "preopen_grand_opening_advice",
-      "value": "franchisor consults and advises on grand-opening advertising, marketing and promotion (FA §§6.9, 9.2)",
+      "value": "franchisor consults and advises on grand-opening advertising, marketing and promotion (FA \u00a7\u00a76.9, 9.2)",
       "type": "absolute",
       "item": "Item 11",
       "page": "22"
@@ -1226,11 +1226,11 @@
       "type": "absolute",
       "item": "Item 17",
       "page": "35",
-      "note": "FA §3.1"
+      "note": "FA \u00a73.1"
     },
     "renewal_rights": {
       "field": "renewal_rights",
-      "value": "right to renew for 2 additional 5-year terms if requirements are met (FA §3.2)",
+      "value": "right to renew for 2 additional 5-year terms if requirements are met (FA \u00a73.2)",
       "type": "absolute",
       "item": "Item 17",
       "page": "35"
@@ -1248,7 +1248,7 @@
       "type": "absolute",
       "item": "Item 17",
       "page": "35",
-      "note": "FA §§3.2-3.4"
+      "note": "FA \u00a7\u00a73.2-3.4"
     },
     "dispute_resolution": {
       "field": "dispute_resolution",
@@ -1793,7 +1793,7 @@
     },
     "outlet_count_note": {
       "field": "outlet_count_note",
-      "value": "FDD Item 20 counts 5 company-owned outlets at 12/31/2023; Item 19 names 5 company-owned outlets; Exhibit C lists ZERO current and ZERO former franchisees — the franchisor had no third-party franchisees at issuance; 2 additional affiliate outlets (Hillsboro OR, Vancouver WA) are listed in Item 1 as operating 'since 2024'",
+      "value": "FDD Item 20 counts 5 company-owned outlets at 12/31/2023; Item 19 names 5 company-owned outlets; Exhibit C lists ZERO current and ZERO former franchisees \u2014 the franchisor had no third-party franchisees at issuance; 2 additional affiliate outlets (Hillsboro OR, Vancouver WA) are listed in Item 1 as operating 'since 2024'",
       "type": "absolute",
       "item": "Item 20",
       "page": "42"
@@ -1958,9 +1958,9 @@
       "method": "licensed contractor (or obtains required licenses) in the operating state"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
       "run_at": "2026-09-13T01:48:43Z",
       "all_verified": true,
@@ -1969,16 +1969,16 @@
     "pinsUpdatedAt": "2026-09-13T01:48:43Z"
   },
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
-    "run_at": "2026-09-13T01:48:43Z",
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
+    "run_utc": "2026-09-15T02:48:11.794633+00:00",
     "pins_total": 6,
     "pins_verified": 6,
-    "pins_unverifiable": 0,
     "pins_mismatch": 0,
+    "pins_unverifiable": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1990,9 +1990,10 @@
           -96.8335
         ],
         "geocoded": [
-          33.1505998,
-          -96.8238183
+          33.1506,
+          -96.823818
         ],
+        "geocode_query": "Frisco, Texas, United States",
         "distance_km": 1.73,
         "status": "VERIFIED"
       },
@@ -2005,9 +2006,10 @@
           -117.16171
         ],
         "geocoded": [
-          32.7174202,
+          32.71742,
           -117.162772
         ],
+        "geocode_query": "San Diego, California, United States",
         "distance_km": 0.22,
         "status": "VERIFIED"
       },
@@ -2020,9 +2022,10 @@
           -122.0182
         ],
         "geocoded": [
-          37.9020731,
-          -122.0618702
+          37.902073,
+          -122.06187
         ],
+        "geocode_query": "Walnut Creek, California, United States",
         "distance_km": 4.04,
         "status": "VERIFIED"
       },
@@ -2035,9 +2038,10 @@
           -81.67556
         ],
         "geocoded": [
-          26.1421976,
-          -81.7942944
+          26.142198,
+          -81.794294
         ],
+        "geocode_query": "Naples, Florida, United States",
         "distance_km": 15.22,
         "status": "VERIFIED"
       },
@@ -2050,9 +2054,10 @@
           -122.9641
         ],
         "geocoded": [
-          45.5228939,
+          45.522894,
           -122.989827
         ],
+        "geocode_query": "Hillsboro, Oregon, United States",
         "distance_km": 10.37,
         "status": "VERIFIED"
       },
@@ -2065,42 +2070,46 @@
           -122.68436
         ],
         "geocoded": [
-          45.6306954,
-          -122.6744557
+          45.630695,
+          -122.674456
         ],
+        "geocode_query": "Vancouver, Washington, United States",
         "distance_km": 4.07,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-13T01:48:43Z",
-  "risk_method": "legal_cleanliness 2/20 + outlet_stability 8/20 + fee_burden 14/20 + financial_evidence 13/20 + trend_momentum 9/20 = 46 (5-factor sum, higher=riskier; source: builder build_fields.py)",
+  "pinsUpdatedAt": "2026-09-15T02:48:11.794633+00:00",
+  "risk_method": "base 0 + legal_cleanliness 2 + outlet_stability 8 + fee_burden 14 + financial_evidence 13 + trend_momentum 9 = 46",
   "risk_components": [
     {
       "name": "legal_cleanliness",
-      "weight": 1.0,
+      "weight": 2,
       "note": "zero litigation/bankruptcy, Items 3-4 (higher=riskier; /20 subscore summed)"
     },
     {
       "name": "outlet_stability",
-      "weight": 1.0,
+      "weight": 8,
       "note": "brand-new system, zero third-party franchisees, 5 company-owned outlets, 2021-2023 net +5, zero closures"
     },
     {
       "name": "fee_burden",
-      "weight": 1.0,
+      "weight": 14,
       "note": "7% royalty + 1% brand + ~$7,500-$9,000/mo fixed fees on ~$850k avg revenue = ~18-21% effective before fixed"
     },
     {
       "name": "financial_evidence",
-      "weight": 1.0,
+      "weight": 13,
       "note": "Item 19 n=2 company-owned outlets, unaudited, EBITDA margins 22% vs 4% diverge"
     },
     {
       "name": "trend_momentum",
-      "weight": 1.0,
+      "weight": 9,
       "note": "all-company-owned growth, franchising began Oct 2024, no franchisee validation"
     }
   ],
-  "risk_source": "build_fields.py 5-factor model"
+  "risk_source": "build_fields.py 5-factor model",
+  "logoUrl": "https://careandrepair.com/wp-content/themes/kcr-2026/assets/img/logo.svg",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
+  "risk_method_original_2026_09_14": "legal_cleanliness 2/20 + outlet_stability 8/20 + fee_burden 14/20 + financial_evidence 13/20 + trend_momentum 9/20 = 46 (5-factor sum, higher=riskier; source: builder build_fields.py)"
 }
